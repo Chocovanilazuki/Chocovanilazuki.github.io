@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Edison Zhou</title>
-    <link>http://Chocovanilazuki.github.io/</link>
-    <description>Recent content on Edison Zhou</description>
+    <title>Hugo tranquilpeak theme</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://Chocovanilazuki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Nov 2022 10:03:43 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/2022/11/my-first-post/</link>
+      <pubDate>Thu, 03 Nov 2022 10:03:43 +0800</pubDate>
+      
+      <guid>https://example.org/2022/11/my-first-post/</guid>
+      <description>Welcome aaa bbb ccc </description>
+    </item>
+    
+    <item>
+      <title>你好，Hugo</title>
+      <link>https://example.org/2022/11/%E4%BD%A0%E5%A5%BDhugo/</link>
+      <pubDate>Thu, 03 Nov 2022 10:03:43 +0800</pubDate>
+      
+      <guid>https://example.org/2022/11/%E4%BD%A0%E5%A5%BDhugo/</guid>
+      <description>Test</description>
+    </item>
+    
   </channel>
 </rss>
