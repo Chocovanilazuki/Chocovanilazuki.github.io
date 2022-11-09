@@ -5,6 +5,8 @@
     <link>https://chocovanilazuki.github.io/tags/</link>
     <description>Recent content in Tags on Edison&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://chocovanilazuki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>**Chocovanilazuki@outlook.com** (Edison Zhou)</managingEditor>
+    <webMaster>**Chocovanilazuki@outlook.com** (Edison Zhou)</webMaster><atom:link href="https://chocovanilazuki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
