@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video &amp; Music Collections on Edison&#39;s Blog</title>
+    <link>http://localhost:1313/categories/video--music-collections/</link>
+    <description>Recent content in Video &amp; Music Collections on Edison&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
+    <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
+    <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/video--music-collections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video &amp; Music Collections</title>
+      <link>http://localhost:1313/2022/11/video-music-collections/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>http://localhost:1313/2022/11/video-music-collections/</guid>
+      <description>With hearing and seeing, I want to convey the feelings in my heart, and hope to awaken the initial love of people.</description>
+    </item>
+  </channel>
+</rss>
