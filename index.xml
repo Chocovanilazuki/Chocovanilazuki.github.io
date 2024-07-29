@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Edison&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://chocovanilazuki.github.io/</link>
     <description>Recent content on Edison&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chocovanilazuki.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poster Collections</title>
-      <link>http://localhost:1313/2024/07/poster-collections/</link>
+      <link>https://chocovanilazuki.github.io/2024/07/poster-collections/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/2024/07/poster-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/2024/07/poster-collections/</guid>
       <description>Use color to express what&amp;rsquo;s in mind and convey ideas that can shock the heart. Simple and meaningful</description>
     </item>
     <item>
       <title>Photo Collections</title>
-      <link>http://localhost:1313/2022/11/photo-collections/</link>
+      <link>https://chocovanilazuki.github.io/2022/11/photo-collections/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/2022/11/photo-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/2022/11/photo-collections/</guid>
       <description>Picked up the camera when I was young, still do not want to put down</description>
     </item>
     <item>
       <title>Video &amp; Music Collections</title>
-      <link>http://localhost:1313/2022/11/video-music-collections/</link>
+      <link>https://chocovanilazuki.github.io/2022/11/video-music-collections/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/2022/11/video-music-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/2022/11/video-music-collections/</guid>
       <description>With hearing and seeing, I want to convey the feelings in my heart, and hope to awaken the initial love of people.</description>
     </item>
     <item>
       <title>Modeling Collections</title>
-      <link>http://localhost:1313/2022/10/modeling-collections/</link>
+      <link>https://chocovanilazuki.github.io/2022/10/modeling-collections/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/2022/10/modeling-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/2022/10/modeling-collections/</guid>
       <description>Build what I think in my mind and find fulfillment in another fantasy world</description>
     </item>
   </channel>

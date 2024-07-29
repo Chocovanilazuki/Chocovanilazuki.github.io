@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Edison&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://chocovanilazuki.github.io/categories/</link>
     <description>Recent content in Categories on Edison&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chocovanilazuki.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/categories/portfolio/</link>
+      <link>https://chocovanilazuki.github.io/categories/portfolio/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/categories/portfolio/</guid>
+      <guid>https://chocovanilazuki.github.io/categories/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Poster Collection</title>
-      <link>http://localhost:1313/categories/poster-collection/</link>
+      <link>https://chocovanilazuki.github.io/categories/poster-collection/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/categories/poster-collection/</guid>
+      <guid>https://chocovanilazuki.github.io/categories/poster-collection/</guid>
       <description></description>
     </item>
     <item>
       <title>Photo Collection</title>
-      <link>http://localhost:1313/categories/photo-collection/</link>
+      <link>https://chocovanilazuki.github.io/categories/photo-collection/</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/categories/photo-collection/</guid>
+      <guid>https://chocovanilazuki.github.io/categories/photo-collection/</guid>
       <description></description>
     </item>
     <item>
       <title>Video &amp; Music Collections</title>
-      <link>http://localhost:1313/categories/video--music-collections/</link>
+      <link>https://chocovanilazuki.github.io/categories/video--music-collections/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/categories/video--music-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/categories/video--music-collections/</guid>
       <description></description>
     </item>
     <item>
       <title>Modeling Collections</title>
-      <link>http://localhost:1313/categories/modeling-collections/</link>
+      <link>https://chocovanilazuki.github.io/categories/modeling-collections/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/categories/modeling-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/categories/modeling-collections/</guid>
       <description></description>
     </item>
   </channel>

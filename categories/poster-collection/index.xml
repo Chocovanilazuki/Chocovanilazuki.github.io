@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poster Collection on Edison&#39;s Blog</title>
-    <link>http://localhost:1313/categories/poster-collection/</link>
+    <link>https://chocovanilazuki.github.io/categories/poster-collection/</link>
     <description>Recent content in Poster Collection on Edison&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/poster-collection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chocovanilazuki.github.io/categories/poster-collection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poster Collections</title>
-      <link>http://localhost:1313/2024/07/poster-collections/</link>
+      <link>https://chocovanilazuki.github.io/2024/07/poster-collections/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>http://localhost:1313/2024/07/poster-collections/</guid>
+      <guid>https://chocovanilazuki.github.io/2024/07/poster-collections/</guid>
       <description>Use color to express what&amp;rsquo;s in mind and convey ideas that can shock the heart. Simple and meaningful</description>
     </item>
   </channel>
