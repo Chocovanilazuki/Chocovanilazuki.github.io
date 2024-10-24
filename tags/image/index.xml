@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image on Chocovanilazuki</title>
-    <link>/tags/image/</link>
+    <link>https://chocovanilazuki.github.io/tags/image/</link>
     <description>Recent content in Image on Chocovanilazuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/image/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://chocovanilazuki.github.io/tags/image/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Photo Collection</title>
-      <link>/posts/portfolio/portfolio_one_photo/</link>
+      <link>https://chocovanilazuki.github.io/posts/portfolio/portfolio_one_photo/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>/posts/portfolio/portfolio_one_photo/</guid>
+      <guid>https://chocovanilazuki.github.io/posts/portfolio/portfolio_one_photo/</guid>
       <description>Picked up the camera when I was young, still do not want to put down</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_one_photo/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/portfolio/portfolio_one_photo/featured.webp" />
     </item>
     
   </channel>

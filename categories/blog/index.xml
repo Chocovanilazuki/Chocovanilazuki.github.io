@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Chocovanilazuki</title>
-    <link>//localhost:1313/categories/blog/</link>
+    <link>https://chocovanilazuki.github.io/categories/blog/</link>
     <description>Recent content in Blog on Chocovanilazuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chocovanilazuki.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xiaomi R3G-Flash Firmware</title>
-      <link>//localhost:1313/posts/blog/router_xiaomi3g/</link>
+      <link>https://chocovanilazuki.github.io/posts/blog/router_xiaomi3g/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>//localhost:1313/posts/blog/router_xiaomi3g/</guid>
+      <guid>https://chocovanilazuki.github.io/posts/blog/router_xiaomi3g/</guid>
       <description>Flashing the firmware fails and you cannot access the recovery console, try to recover the router.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/blog/router_xiaomi3g/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/blog/router_xiaomi3g/featured.png" />
     </item>
     
   </channel>

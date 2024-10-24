@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Chocovanilazuki</title>
-    <link>/authors/</link>
+    <link>https://chocovanilazuki.github.io/authors/</link>
     <description>Recent content in Authors on Chocovanilazuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chocovanilazuki.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
