@@ -1,42 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio on Edison&#39;s Blog</title>
-    <link>https://chocovanilazuki.github.io/categories/portfolio/</link>
-    <description>Recent content in Portfolio on Edison&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
-    <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
-    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chocovanilazuki.github.io/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <title>Portfolio on Chocovanilazuki</title>
+    <link>/categories/portfolio/</link>
+    <description>Recent content in Portfolio on Chocovanilazuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
+    <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
+    <copyright>©️ Chocovanilazuki</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Poster Collections</title>
-      <link>https://chocovanilazuki.github.io/2024/07/poster-collections/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/2024/07/poster-collections/</guid>
-      <description>Use color to express what&amp;rsquo;s in mind and convey ideas that can shock the heart. Simple and meaningful</description>
-    </item>
-    <item>
-      <title>Photo Collections</title>
-      <link>https://chocovanilazuki.github.io/2022/11/photo-collections/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/2022/11/photo-collections/</guid>
-      <description>Picked up the camera when I was young, still do not want to put down</description>
-    </item>
-    <item>
-      <title>Video &amp; Music Collections</title>
-      <link>https://chocovanilazuki.github.io/2022/11/video-music-collections/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/2022/11/video-music-collections/</guid>
+      <title>Video &amp; Music Collection</title>
+      <link>/posts/portfolio/portfolio_three_video/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/posts/portfolio/portfolio_three_video/</guid>
       <description>With hearing and seeing, I want to convey the feelings in my heart, and hope to awaken the initial love of people.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_three_video/featured.webp" />
     </item>
+    
+    <item>
+      <title>Poster Collection</title>
+      <link>/posts/portfolio/portfolio_two_poster/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/posts/portfolio/portfolio_two_poster/</guid>
+      <description>Use color to express what&amp;rsquo;s in mind and convey ideas that can shock the heart. Simple and meaningful</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_two_poster/featured.webp" />
+    </item>
+    
+    <item>
+      <title>2023 Photo Collection</title>
+      <link>/posts/portfolio/portfolio_one_photo/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/posts/portfolio/portfolio_one_photo/</guid>
+      <description>Picked up the camera when I was young, still do not want to put down</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_one_photo/featured.webp" />
+    </item>
+    
     <item>
       <title>Modeling Collections</title>
-      <link>https://chocovanilazuki.github.io/2022/10/modeling-collections/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/2022/10/modeling-collections/</guid>
+      <link>/posts/portfolio/portfolio_four_model/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/posts/portfolio/portfolio_four_model/</guid>
       <description>Build what I think in my mind and find fulfillment in another fantasy world</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_four_model/featured.webp" />
     </item>
+    
   </channel>
 </rss>

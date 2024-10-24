@@ -1,13 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Edison&#39;s Blog</title>
-    <link>https://chocovanilazuki.github.io/tags/</link>
-    <description>Recent content in Tags on Edison&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
-    <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
-    <atom:link href="https://chocovanilazuki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <title>Tags on Chocovanilazuki</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Chocovanilazuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
+    <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
+    <copyright>©️ Chocovanilazuki</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>/tags/music/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>/tags/post/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>/tags/video/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/video/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graphic Design</title>
+      <link>/tags/graphic-design/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/graphic-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poster</title>
+      <link>/tags/poster/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/poster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>/tags/image/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/image/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Photo</title>
+      <link>/tags/photo/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/photo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Modeling</title>
+      <link>/tags/modeling/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/modeling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unreal Engine</title>
+      <link>/tags/unreal-engine/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/tags/unreal-engine/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

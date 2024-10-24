@@ -1,49 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Edison&#39;s Blog</title>
-    <link>https://chocovanilazuki.github.io/categories/</link>
-    <description>Recent content in Categories on Edison&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
-    <webMaster>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
-    <lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://chocovanilazuki.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on Chocovanilazuki</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Chocovanilazuki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
+    <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
+    <copyright>©️ Chocovanilazuki</copyright>
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>https://chocovanilazuki.github.io/categories/portfolio/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/categories/portfolio/</guid>
+      <link>/categories/portfolio/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/portfolio/</guid>
       <description></description>
+      
     </item>
+    
+    <item>
+      <title>Video &amp; Music Collection</title>
+      <link>/categories/video--music-collection/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/video--music-collection/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Poster Collection</title>
-      <link>https://chocovanilazuki.github.io/categories/poster-collection/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/categories/poster-collection/</guid>
+      <link>/categories/poster-collection/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/poster-collection/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Photo Collection</title>
-      <link>https://chocovanilazuki.github.io/categories/photo-collection/</link>
-      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/categories/photo-collection/</guid>
+      <link>/categories/photo-collection/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/photo-collection/</guid>
       <description></description>
+      
     </item>
+    
     <item>
-      <title>Video &amp; Music Collections</title>
-      <link>https://chocovanilazuki.github.io/categories/video--music-collections/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/categories/video--music-collections/</guid>
+      <title>Modeling Collection</title>
+      <link>/categories/modeling-collection/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/modeling-collection/</guid>
       <description></description>
+      
     </item>
-    <item>
-      <title>Modeling Collections</title>
-      <link>https://chocovanilazuki.github.io/categories/modeling-collections/</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate><author>**Email:**  Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/categories/modeling-collections/</guid>
-      <description></description>
-    </item>
+    
   </channel>
 </rss>
