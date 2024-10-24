@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Chocovanilazuki</title>
-    <link>https://chocovanilazuki.github.io/tags/video/</link>
+    <link>/tags/video/</link>
     <description>Recent content in Video on Chocovanilazuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chocovanilazuki.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video &amp; Music Collection</title>
-      <link>https://chocovanilazuki.github.io/posts/portfolio/portfolio_three_video/</link>
+      <link>/posts/portfolio/portfolio_three_video/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/posts/portfolio/portfolio_three_video/</guid>
+      <guid>/posts/portfolio/portfolio_three_video/</guid>
       <description>With hearing and seeing, I want to convey the feelings in my heart, and hope to awaken the initial love of people.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/portfolio/portfolio_three_video/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_three_video/featured.webp" />
     </item>
     
   </channel>

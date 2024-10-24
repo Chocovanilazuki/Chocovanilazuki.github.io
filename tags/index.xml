@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chocovanilazuki</title>
-    <link>https://chocovanilazuki.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chocovanilazuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chocovanilazuki.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music</title>
-      <link>https://chocovanilazuki.github.io/tags/music/</link>
+      <link>/tags/music/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/music/</guid>
+      <guid>/tags/music/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>https://chocovanilazuki.github.io/tags/post/</link>
+      <link>/tags/post/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/post/</guid>
+      <guid>/tags/post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Video</title>
-      <link>https://chocovanilazuki.github.io/tags/video/</link>
+      <link>/tags/video/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/video/</guid>
+      <guid>/tags/video/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Graphic Design</title>
-      <link>https://chocovanilazuki.github.io/tags/graphic-design/</link>
+      <link>/tags/graphic-design/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/graphic-design/</guid>
+      <guid>/tags/graphic-design/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Poster</title>
-      <link>https://chocovanilazuki.github.io/tags/poster/</link>
+      <link>/tags/poster/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/poster/</guid>
+      <guid>/tags/poster/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://chocovanilazuki.github.io/tags/image/</link>
+      <link>/tags/image/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/image/</guid>
+      <guid>/tags/image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Photo</title>
-      <link>https://chocovanilazuki.github.io/tags/photo/</link>
+      <link>/tags/photo/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/photo/</guid>
+      <guid>/tags/photo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modeling</title>
-      <link>https://chocovanilazuki.github.io/tags/modeling/</link>
+      <link>/tags/modeling/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/modeling/</guid>
+      <guid>/tags/modeling/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unreal Engine</title>
-      <link>https://chocovanilazuki.github.io/tags/unreal-engine/</link>
+      <link>/tags/unreal-engine/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/tags/unreal-engine/</guid>
+      <guid>/tags/unreal-engine/</guid>
       <description></description>
       
     </item>

@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chocovanilazuki</title>
-    <link>https://chocovanilazuki.github.io/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Chocovanilazuki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://chocovanilazuki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xiaomi R3G-Flash Firmware</title>
-      <link>https://chocovanilazuki.github.io/posts/blog/router_xiaomi3g/</link>
+      <link>/posts/blog/router_xiaomi3g/</link>
       <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/posts/blog/router_xiaomi3g/</guid>
+      <guid>/posts/blog/router_xiaomi3g/</guid>
       <description>Flashing the firmware fails and you cannot access the recovery console, try to recover the router.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/blog/router_xiaomi3g/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/blog/router_xiaomi3g/featured.png" />
     </item>
     
     <item>
       <title>Video &amp; Music Collection</title>
-      <link>https://chocovanilazuki.github.io/posts/portfolio/portfolio_three_video/</link>
+      <link>/posts/portfolio/portfolio_three_video/</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/posts/portfolio/portfolio_three_video/</guid>
+      <guid>/posts/portfolio/portfolio_three_video/</guid>
       <description>With hearing and seeing, I want to convey the feelings in my heart, and hope to awaken the initial love of people.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/portfolio/portfolio_three_video/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_three_video/featured.webp" />
     </item>
     
     <item>
       <title>Poster Collection</title>
-      <link>https://chocovanilazuki.github.io/posts/portfolio/portfolio_two_poster/</link>
+      <link>/posts/portfolio/portfolio_two_poster/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/posts/portfolio/portfolio_two_poster/</guid>
+      <guid>/posts/portfolio/portfolio_two_poster/</guid>
       <description>Use color to express what&amp;rsquo;s in mind and convey ideas that can shock the heart. Simple and meaningful</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/portfolio/portfolio_two_poster/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_two_poster/featured.webp" />
     </item>
     
     <item>
       <title>2023 Photo Collection</title>
-      <link>https://chocovanilazuki.github.io/posts/portfolio/portfolio_one_photo/</link>
+      <link>/posts/portfolio/portfolio_one_photo/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/posts/portfolio/portfolio_one_photo/</guid>
+      <guid>/posts/portfolio/portfolio_one_photo/</guid>
       <description>Picked up the camera when I was young, still do not want to put down</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/portfolio/portfolio_one_photo/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_one_photo/featured.webp" />
     </item>
     
     <item>
       <title>Modeling Collections</title>
-      <link>https://chocovanilazuki.github.io/posts/portfolio/portfolio_four_model/</link>
+      <link>/posts/portfolio/portfolio_four_model/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>https://chocovanilazuki.github.io/posts/portfolio/portfolio_four_model/</guid>
+      <guid>/posts/portfolio/portfolio_four_model/</guid>
       <description>Build what I think in my mind and find fulfillment in another fantasy world</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://chocovanilazuki.github.io/posts/portfolio/portfolio_four_model/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/portfolio/portfolio_four_model/featured.webp" />
     </item>
     
   </channel>
