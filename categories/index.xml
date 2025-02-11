@@ -9,7 +9,27 @@
     <managingEditor>Chocovanilazuki@outlook.com (Edison Zhou)</managingEditor>
     <webMaster>Chocovanilazuki@outlook.com (Edison Zhou)</webMaster>
     <copyright>©️ Chocovanilazuki</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>/categories/portfolio/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poster Collection</title>
+      <link>/categories/poster-collection/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
+      <guid>/categories/poster-collection/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Photo Collection</title>
       <link>/categories/photo-collection/</link>
@@ -21,31 +41,11 @@
     </item>
     
     <item>
-      <title>Portfolio</title>
-      <link>/categories/portfolio/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>/categories/portfolio/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Video &amp; Music Collection</title>
       <link>/categories/video--music-collection/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
       <guid>/categories/video--music-collection/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Poster Collection</title>
-      <link>/categories/poster-collection/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
-      <author>Chocovanilazuki@outlook.com (Edison Zhou)</author>
-      <guid>/categories/poster-collection/</guid>
       <description></description>
       
     </item>

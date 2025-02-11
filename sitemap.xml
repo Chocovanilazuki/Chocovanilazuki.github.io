@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/posts/portfolio/portfolio_five_photo_2025/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <loc>/posts/portfolio/portfolio_two_poster/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/posts/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/posts/portfolio/portfolio_five_photo_2025/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -23,12 +29,6 @@
   <url>
     <loc>/posts/portfolio/portfolio_three_video/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>/posts/portfolio/portfolio_two_poster/</loc>
-    <lastmod>2024-07-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
